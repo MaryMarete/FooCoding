@@ -1,0 +1,44 @@
+html,body{
+    background-color: bisque;
+    margin : 0 5px;
+    width: 100%;
+}
+body{
+    padding : 5px;
+}
+.nav{
+    background-color: brown;
+    
+}
+main{
+    float: right;
+    width: 60%;
+    text-align: left;
+}
+aside{
+    float:left;
+    width: 30%;
+}
+h1{
+    font-size: 50px;
+    
+}
+ul{
+    list-style-type: none
+}
+.intro{
+    text-align: left;
+}
+.skills{
+    text-align: left;
+    text-decoration: none;
+}
+.experience{
+    text-align: left;
+    text-decoration: none;
+}
+footer{
+    width: 100%;
+    background-color: blue;
+    clear: both;
+}
